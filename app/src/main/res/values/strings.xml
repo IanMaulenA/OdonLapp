@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OdonLapp</string>
+    <string name="diagnostico_clinico">Diagnostico clinico</string>
+    <string name="pregunta">Pregunta:</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="inicio_de_sesi_n">Inicio de sesión:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="contrase_a">Contraseña:</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="odontuss">ODONTUSS</string>
+    <string name="logouss">LOGOUSS</string>
+    <string name="diagnostico_via_glosario">Diagnostico via glosario</string>
+    <string name="acute_ulcers">Acute ulcers</string>
+    <string name="buscar_patolog_a">Buscar patología:</string>
+    <string name="find">FIND</string>
+</resources>
